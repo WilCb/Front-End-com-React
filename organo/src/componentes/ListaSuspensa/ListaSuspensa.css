@@ -1,11 +1,11 @@
-.ListaSuspensa  label {
+.lista__suspensa label {
     display: block;
     margin-bottom: 8px;
     font-size: 24px;
 }
 
-.ListaSuspensa select {
-    background-color: #fff;
+.lista__suspensa select {
+    background-color: #FFF;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
     width: 100%;
     border: none;

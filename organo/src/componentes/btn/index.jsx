@@ -1,11 +1,9 @@
-import './btn.css'
+import './Btn.css'
 
 const Btn = (props) => {
-    return (
-        <button className="btn">
-            {props.children}
-        </button>
-    )
+    return (<button className='btn'>
+        {props.children}
+    </button>)
 }
 
 export default Btn
